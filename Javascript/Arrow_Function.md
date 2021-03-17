@@ -1,3 +1,5 @@
+# Arrow Function
+
 ### Rule 1
 
 When you want to return an object, wrap it inside parenthesis '( )' or place them in more than one line.
