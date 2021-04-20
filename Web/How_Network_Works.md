@@ -31,6 +31,9 @@
 
 Structure of URL
 
+![image](https://user-images.githubusercontent.com/44216709/115333478-b8db1100-a167-11eb-8680-353e29352c8d.png)
+
+
 ### How network works?
 
 Two issues when multiple computers are connected
