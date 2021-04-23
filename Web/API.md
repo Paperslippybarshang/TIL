@@ -1,4 +1,4 @@
-### What is an API?
+## What is an API?
 
 A set of clearly defined **methods** of communication between various components
 
@@ -8,7 +8,7 @@ An API may be for a web-based system, operating system, database system, compute
 - Companhies will provide access to their data
   - e.g. Twitter API, Facebook API, GooglePlaces API
 
-### Data Formats
+## Data Formats
 
 When API request is made, APIs will respond with data in two different formats - XML and JSON
 
