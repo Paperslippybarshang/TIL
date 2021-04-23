@@ -13,6 +13,9 @@
 - 404 = Not found - Client Error Response
 - 500 = Server had an internal problem
 
+
+![image](https://user-images.githubusercontent.com/44216709/115493956-ada0e780-a232-11eb-936d-1edfb6f89ad3.png)
+
 Typically, web browser communicate with server by requesting information. This is called GET method. Then, the server side will process requested information/documents in the DB server. Then server will send response back to the browser.
 
 So what is in a typical Request?
